@@ -1,9 +1,8 @@
-﻿#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 group-title="УКРАИНА",Сварожичи ТВ UA HD
+#EXTINF:-1 group-title="MY",Сварожичи ТВ UA HD
 http://80.91.177.102:1935/live/live1/playlist.m3u8
-#EXTINF:-1 group-title="УКРАИНА",Сварожичи ТВ
+#EXTINF:-1 group-title="MY",Сварожичи ТВ
 http://tv.tv-project.com:1935/live/live1/playlist.m3u8
-#EXTINF:-1 group-title="УКРАИНА",Сварожичи р
+#EXTINF:-1 group-title="MY",Сварожичи р
 http://tv.tv-project.com:1935/live/live2/playlist.m3u8
 
 
@@ -54,9 +53,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/
 #EXTINF:-1 group-title="РЕЛАКС- расслабление",Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 
-#EXTINF:-1 group-title="ОБЩИЕ",Meteonews
+#EXTINF:-1 group-title="MY",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 group-title="ОБЩИЕ",Luxury HD
+#EXTINF:-1 group-title="MY",Luxury HD
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 group-title="ОБЩИЕ",BBC World News
+#EXTINF:-1 group-title="MY",BBC World News
 http://s1.ttranslit.com:8081/s4g_bbc/index.m3u8?wmsAuthSign=1660172113Sfc24edff23f0b95922d0323b47f4f3b1S15h851h351h5
